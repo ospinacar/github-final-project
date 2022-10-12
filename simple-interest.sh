@@ -6,7 +6,7 @@
 
    # Author: Upkar Lidder (IBM)
    # Additional Authors:
-   # Carlos Ospina (IBM Developer Student)
+   # ospinacar (IBM Developer Student)
 
    # Input:
    # p, principal amount
